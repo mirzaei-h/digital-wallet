@@ -47,7 +47,7 @@ port from application.properties
 server.port=8070
 
 ``` 
-http://localhost:8070/e_wallet/
+http://localhost:8070/e_wallet
 ``` 
 
 ## Testing
